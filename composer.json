@@ -1,0 +1,16 @@
+{
+  "name": "codesai/php-solid",
+  "description": "project with solid katas",
+  "authors": [
+    {
+      "name": "Alfredo Casado",
+      "email": "alfredo@codesai.com"
+    }
+  ],
+  "require": {
+    "php": "7.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "9.5"
+  }
+}
