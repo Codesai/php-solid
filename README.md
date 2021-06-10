@@ -10,4 +10,6 @@ We can identify at least two responsabilities in this code:
 * convert a text to html
 
 
+## Credits
 
+`HtmlTextConverter` kata is based on work by [Emily Bache](https://github.com/emilybache/Racing-Car-Katas/blob/main/php/src/TextConverter/HtmlTextConverter.php)
